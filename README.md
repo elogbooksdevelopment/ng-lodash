@@ -1,14 +1,14 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
-[![Build Status](https://travis-ci.org/rockabox/ng-lodash.svg?branch=master)](https://travis-ci.org/rockabox/ng-lodash)
-[![devDependency Status](https://david-dm.org/rockabox/ng-lodash/dev-status.svg)](https://david-dm.org/rockabox/ng-lodash#info=devDependencies)
 
-ng-lodash
+mw-ng-lodash
 =========
 
 This is a wrapper for the utility library [Lo-Dash](http://lodash.com/) for
 Angular JS. One aim for this project is to ensure Lo-Dash doesn't have to be
 left on the window, and we use Lo-Dash with Angular, in the normal dependency
  injection manner.
+ 
+This is based on ng-lodash angular package. Version of lodash was updated to 4.17.5 to avoid found vulnerability. 
 
 ## Installing
 Install via bower

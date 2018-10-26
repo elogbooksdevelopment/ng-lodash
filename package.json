@@ -1,14 +1,14 @@
 {
-  "name": "ng-lodash",
-  "version": "0.5.0",
-  "description": "An Angular module wrapper for lodash",
+  "name": "mw-ng-lodash",
+  "version": "0.0.1",
+  "description": "An updated Angular module wrapper for lodash based on rockabox/ng-lodash",
   "main": "build/ng-lodash.js",
   "scripts": {
     "test": "grunt dist"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/rockabox/ng-lodash.git"
+    "url": "git://github.com/Weyn/ng-lodash.git"
   },
   "keywords": [
     "nglodash",
@@ -16,13 +16,13 @@
     "lodash"
   ],
   "author": [
-    "Rockabox <tech@rockabox.com> (http://rockabox.com)"
+    "MW"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rockabox/ng-lodash/issues"
+    "url": "https://github.com/Weyn/ng-lodash/issues"
   },
-  "homepage": "https://github.com/rockabox/ng-lodash",
+  "homepage": "https://github.com/Weyn/ng-lodash",
   "devDependencies": {
     "grunt": "~1.0.1",
     "grunt-bower-task": "~0.4.0",
