@@ -1,6 +1,6 @@
 {
   "name": "elogs-ng-lodash",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "An updated Angular module wrapper for lodash based on rockabox/ng-lodash",
   "main": "build/ng-lodash.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/elogbooks/ng-lodash.git"
+    "url": "git://github.com/elogbooksdevelopment/ng-lodash.git"
   },
   "keywords": [
     "nglodash",
@@ -16,13 +16,13 @@
     "lodash"
   ],
   "author": [
-    "MW"
+    "elogbooksdevelopment"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Weyn/ng-lodash/issues"
+    "url": "https://github.com/elogbooksdevelopment/ng-lodash/issues"
   },
-  "homepage": "https://github.com/Weyn/ng-lodash",
+  "homepage": "https://github.com/elogbooksdevelopment/ng-lodash",
   "devDependencies": {
     "grunt": "~1.0.1",
     "grunt-bower-task": "~0.4.0",

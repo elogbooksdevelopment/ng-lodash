@@ -13,7 +13,7 @@ This is based on ng-lodash angular package. Version of lodash was updated to 4.1
 ## Installing
 Install via bower
 
-```bower install ng-lodash```
+```bower install elogs-ng-lodash```
 
 Require it into your application (after Angular)
 
