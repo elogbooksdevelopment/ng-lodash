@@ -1,5 +1,5 @@
 {
-  "name": "mw-ng-lodash",
+  "name": "elogs-ng-lodash",
   "version": "0.0.1",
   "description": "An updated Angular module wrapper for lodash based on rockabox/ng-lodash",
   "main": "build/ng-lodash.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Weyn/ng-lodash.git"
+    "url": "git://github.com/elogbooks/ng-lodash.git"
   },
   "keywords": [
     "nglodash",
